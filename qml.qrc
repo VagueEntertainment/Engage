@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>EnMenu.qml</file>
+        <file>PlacementGrid.qml</file>
+        <file>InfoScreen.qml</file>
+        <file>Background.qml</file>
+        <file>Placement.qml</file>
+        <file>ShipInfoSmall.qml</file>
+        <file>Discription.qml</file>
+        <file>DamageCounters.qml</file>
+        <file>main.js</file>
+        <file>Tile.qml</file>
+        <file>Splash.qml</file>
+        <file>EnButton.qml</file>
+        <file>FleetSelect.qml</file>
+        <file>TargetingGrid.qml</file>
+        <file>Targeting.qml</file>
+        <file>Info.qml</file>
+    </qresource>
+</RCC>
